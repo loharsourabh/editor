@@ -1,0 +1,10 @@
+.CodeInput {
+}
+
+.code_input {
+    width: 30rem;
+    height: 100%;
+    box-sizing: border-box;
+    resize: none;
+    font: 1rem 'Source Code Pro', monospace;
+}
